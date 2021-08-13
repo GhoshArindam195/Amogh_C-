@@ -5,7 +5,7 @@ class Complex
 {
 private:
     int real;
-    int img;
+    int img;    
 
 public:
     Complex(int r = 0, int i = 0)
