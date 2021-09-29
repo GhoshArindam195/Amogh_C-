@@ -23,13 +23,4 @@ int main(void)
     // (*ptr)++;    //Error   
     //a++;    //Allowed
 
-
-    
-
-
-
-
-
-
-
 }
