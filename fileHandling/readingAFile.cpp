@@ -2,7 +2,7 @@
 #include<fstream>
 using namespace std;
 int main()
-{
+{             
     // ifstream inFile("my.text");
     ifstream inFile;
     inFile.open("my.txt");
