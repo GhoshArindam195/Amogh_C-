@@ -10,11 +10,10 @@ int main(void)
 
     list<string> :: iterator itr = friends.begin();
     int i=0;
-    while(i<3)
+    while(itr!=friends.end())
     {
         cout<<*itr<<endl;
         itr++;
-        i++;
     }
     // cout<<friends.size();
 
