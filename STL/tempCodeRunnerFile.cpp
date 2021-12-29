@@ -1,1 +1,1 @@
-  stk.top()+=20;
+map<int, string> m;
